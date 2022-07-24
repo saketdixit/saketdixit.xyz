@@ -28,7 +28,7 @@ function Icons() {
         ></FontAwesomeIcon>
       </a>
       <a
-        href="https://docs.google.com/document/d/1vY5P9Cq4N3HhACWj6y27y8vE8hoY0cFuvGzo07rOfLA/edit?usp=sharing"
+        href="https://drive.google.com/file/d/1tpfVyZKbYaQ8jGUVPVH8KkIv4oFKF2XK/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
