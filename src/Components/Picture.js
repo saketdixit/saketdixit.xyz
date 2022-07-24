@@ -2,8 +2,12 @@ import React from "react";
 import "../App.css";
 function Picture() {
   return (
-    <div className="-mt-40 mb-20">
-      <img class="photo" src={require("./photo.png")} alt="" />
+    <div>
+      <img
+        class="photo -mt-20 -mb-5 md:-mb-20 w-3/5 md:w-2/5"
+        src={require("./photo.png")}
+        alt=""
+      />
     </div>
   );
 }

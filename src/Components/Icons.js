@@ -6,7 +6,7 @@ import React from "react";
 
 function Icons() {
   return (
-    <div>
+    <div className="flex justify-center">
       <a
         href="https://github.com/gunjanchaudhari"
         target="_blank"

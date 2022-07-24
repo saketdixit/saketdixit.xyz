@@ -1,23 +1,22 @@
 import React from "react";
 function Title() {
   return (
-    <div className="-mt-40">
-      <p
-        className="subpixel-antialiased text-white
-          text-8xl
-          md:text-10xl
-          font-medium"
+    <div>
+      <h1
+        className="subpixel-antialiased text-white text-center
+          font-medium text-4xl
+          md:text-7xl"
       >
         Gunjan Chaudhari
-      </p>
-      <p
-        className="pt-100px subpixel-antialiased text-white
+      </h1>
+      <h2
+        className="subpixel-antialiased text-white text-center
           text-1xl
           md:text-2xl
           font-small"
       >
         Master of Information Technology
-      </p>
+      </h2>
     </div>
   );
 }
