@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 function Title() {
   return (
     <div>
@@ -15,7 +15,7 @@ function Title() {
           md:text-2xl
           font-small"
       >
-        Master of Information Technology
+        Data Engineer | Master of IT
       </h2>
     </div>
   );

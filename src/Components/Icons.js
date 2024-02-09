@@ -1,14 +1,14 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
-import React from "react";
+import React from 'react';
 
 function Icons() {
   return (
     <div className="flex justify-center">
       <a
-        href="https://github.com/gunjanchaudhari"
+        href="https://github.com/chaudharigunjan"
         target="_blank"
         rel="noreferrer"
       >
@@ -18,7 +18,7 @@ function Icons() {
         ></FontAwesomeIcon>
       </a>
       <a
-        href="https://www.linkedin.com/in/gunjan-chaudhari/"
+        href="https://www.linkedin.com/in/gunjanchaudhari/"
         target="_blank"
         rel="noreferrer"
       >
@@ -28,7 +28,7 @@ function Icons() {
         ></FontAwesomeIcon>
       </a>
       <a
-        href="https://drive.google.com/file/d/1q02h0_A44IB1Qx-yxM-R-74BQ1cvzCtC/view?usp=sharing"
+        href="https://drive.google.com/file/d/1OTTYE1DtwER6i0k-ynvnRRxnUllNn4-8/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
