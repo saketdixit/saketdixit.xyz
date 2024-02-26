@@ -7,7 +7,7 @@ function Title() {
           font-medium text-4xl
           md:text-7xl"
       >
-        Gunjan Chaudhari
+        Saket Dixit
       </h1>
       <h2
         className="subpixel-antialiased text-white text-center
@@ -15,7 +15,7 @@ function Title() {
           md:text-2xl
           font-small"
       >
-        Data Engineer | Master of IT
+        Software Engineer | Data Analyst | Master of Computer Science
       </h2>
     </div>
   );

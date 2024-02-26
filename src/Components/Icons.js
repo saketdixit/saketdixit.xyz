@@ -8,7 +8,7 @@ function Icons() {
   return (
     <div className="flex justify-center">
       <a
-        href="https://github.com/chaudharigunjan"
+        href="https://github.com/saketdixit"
         target="_blank"
         rel="noreferrer"
       >
@@ -18,7 +18,7 @@ function Icons() {
         ></FontAwesomeIcon>
       </a>
       <a
-        href="https://www.linkedin.com/in/gunjanchaudhari/"
+        href="https://www.linkedin.com/in/saketdixit/"
         target="_blank"
         rel="noreferrer"
       >
@@ -28,7 +28,7 @@ function Icons() {
         ></FontAwesomeIcon>
       </a>
       <a
-        href="https://drive.google.com/file/d/1OTTYE1DtwER6i0k-ynvnRRxnUllNn4-8/view?usp=sharing"
+        href="https://drive.google.com/file/d/12Sca-Y40jHeQQnTTStDmdwJOnCl1GlNT/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
